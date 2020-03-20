@@ -23,7 +23,7 @@ draw = function() {
 
 
 	fill(194, 197,190);
-	ellipse(xPosA, 65, 77, 70, -70, 100);
+	ellipse(xPosA, 65, 77, 70, -70, 100); // moon
 
 	xPosA = xPosA - 2;
 
